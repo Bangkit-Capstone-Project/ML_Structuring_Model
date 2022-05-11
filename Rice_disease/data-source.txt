@@ -16,6 +16,6 @@ List classes :
 - Brown Spot (603)
 - Blight (200)
 - Blast (939)
-- Tungro (80)
+- Tungro (160)
 - Hispa (565)
 - Healthy (1488)
