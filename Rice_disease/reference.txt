@@ -1,0 +1,9 @@
+kind of rice leaf diseases:
+- https://en.wikipedia.org/wiki/List_of_rice_diseases
+- http://www.knowledgebank.irri.org/step-by-step-production/growth/pests-and-diseases/diseases
+- https://plantvillage.psu.edu/topics/rice/infos
+
+
+model:
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8049121/
+- https://www.kaggle.com/code/amartyabhattacharya/riceplantdiseasedensenet201#CHOOSING-AND-BUILDING-A-MODEL
