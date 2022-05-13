@@ -1,0 +1,21 @@
+1. https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
+   Classes : Leaf smut (40), Brown spot (40), Blight (40)
+
+2. https://www.kaggle.com/datasets/tedisetiady/leaf-rice-disease-indonesia
+   Classes : Blast (80), Blight (80), Tungro (80)
+
+3. https://www.kaggle.com/datasets/chandrug/riceleafdisease
+   Classes : Leaf smut (40), Brown spot (40), Blast (80), Blight (80), Tungro (80)
+
+4. https://www.kaggle.com/datasets/shayanriyaz/riceleafs
+   Classes : BrownSpot (418:105), Healthy (1191:297), Hispa (452:113), LeafBlast (623:156)
+
+
+List classes :
+- Leaf Smut (80)
+- Brown Spot (603)
+- Blight (200)
+- Blast (939)
+- Tungro (80)
+- Hispa (565)
+- Healthy (1488)
