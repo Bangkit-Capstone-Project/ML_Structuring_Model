@@ -1,0 +1,5 @@
+Blight
+BrownSpot
+Healthy
+LeafSmut
+Tungro
