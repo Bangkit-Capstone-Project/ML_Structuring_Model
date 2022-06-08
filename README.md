@@ -113,7 +113,7 @@ Preview of the image and data used are shown in the picture below.
 
 ###  Vegetables
 
-- [Vegetables.ipynb](https://github.com/Bangkit-Capstone-Project/ML_Structuring_Model/blob/7f98fc705b111da08900434fbf9e7758c403b9e6/Vagetable/vagetable.ipynb)
+- [Vegetables.ipynb](https://github.com/Bangkit-Capstone-Project/ML_Structuring_Model/blob/ed0627450f96122e7921e3f856a8ace814b1bab8/Vagetable/Newdataset/Copy_of_vagetable2.ipynb)
 
 
 ## Prerequisites
