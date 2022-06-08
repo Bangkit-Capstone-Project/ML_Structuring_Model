@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="images\Logo Tanamin 3-01.png"  width="270"></img>
+  <img align="center" src="images\Logo Tanamin 3-01.png"  width="500"></img>
 <br>
 TANAMIN MACHINE LEARNING PROJECT README
 </h1>
