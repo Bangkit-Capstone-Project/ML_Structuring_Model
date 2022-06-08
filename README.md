@@ -33,11 +33,10 @@ TANAMIN MACHINE LEARNING PROJECT README
 * Deployment Application (C7297F2544 - Shazi Awaludin)
 
 
-<!-- [![GitHub stars](https://img.shields.io/github/stars/DocBot-Bangkit-2021/DocBot-MachineLearningModels)](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels)
-[![GitHub forks](https://img.shields.io/github/forks/DocBot-Bangkit-2021/DocBot-MachineLearningModels)](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels) -->
+
 
 # Tanamin Machine Learing Project
-This project is our final project for Google Bangkit Academy 2021.
+This ML project is our final project for Google Bangkit Academy 2022.
 
 **Android:**
 [Tanamin Mobile Apps Developments](https://github.com/Bangkit-Capstone-Project/MobileDev_AppsProject)
