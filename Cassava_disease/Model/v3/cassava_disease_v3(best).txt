@@ -1,4 +1,0 @@
-cbb
-cgm
-cmd
-healthy
